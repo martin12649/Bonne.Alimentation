@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bonne.Alimentation</title>
+</head>
+
+<body bgcolor="81B281">
+
+<h1 align="center">Bonne.alimentation</h1>
+<br>
+<br>
+<form>
+  <label for="fname">NOM:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  
+  <label for="lname">PRENOM:</label><br>
+  <input type="text" id="lname" name="lname"><br>
+  
+  <label for="fname">EMAIL:</label><br>
+   <input type="text" id="lname" name="lname"><br>
+   
+   <label for="fname">ADRESSE:</label><br>
+   <input type="text" id="lname" name="lname"><br>
+</form>
+
+
+
+
+
+</body>
+</html>
